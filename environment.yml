@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+rdkit-pypi
+deepchem
+scikit-learn
+matplotlib
+tensorflow==2.11.0
+
+
