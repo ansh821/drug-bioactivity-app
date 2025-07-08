@@ -1,0 +1,15 @@
+name: drug-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - rdkit
+  - pip
+  - pip:
+      - streamlit
+      - pandas
+      - numpy
+      - scikit-learn
+      - matplotlib
+      - seaborn
+      - any-other-packages-you-use
