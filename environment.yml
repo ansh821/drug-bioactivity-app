@@ -1,11 +1,10 @@
-name: drug-env
-channels:
-  - conda-forge
-dependencies:
-  - python=3.10
-  - streamlit
-  
-  - pandas
-  - numpy
-  - tensorflow=2.13.0
+streamlit
+pandas
+numpy
+rdkit-pypi
+deepchem
+scikit-learn
+matplotlib
+tensorflow==2.11.0
+
 
