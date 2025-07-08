@@ -6,6 +6,12 @@ deepchem
 scikit-learn
 matplotlib
 tensorflow==2.11.0
+<<<<<<< HEAD
 matplotlib
 keras
 joblib
+=======
+joblib
+keras
+
+>>>>>>> 90d84df91f4d068464b0d91eac47cfe0bede94f3
