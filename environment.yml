@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.10
   - streamlit
-  - rdkit
+  
   - pandas
   - numpy
   - tensorflow=2.13.0
