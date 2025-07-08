@@ -5,7 +5,7 @@ rdkit-pypi
 deepchem
 scikit-learn
 matplotlib
-tensorflow==2.11.0
+tensorflow==2.19.0
 
 keras
 joblib
