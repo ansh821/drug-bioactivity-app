@@ -1,0 +1,5 @@
+streamlit
+rdkit-pypi
+tensorflow
+pandas
+numpy
