@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 [runtime]
 pythonVersion = "3.10"
 
+=======
+"[runtime]\npythonVersion = \"3.10\"" 
+>>>>>>> 7a3b82c (Force Streamlit to use Python 3.10)
