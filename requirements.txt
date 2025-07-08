@@ -2,4 +2,4 @@ streamlit
 rdkit-pypi
 tensorflow
 pandas
-numpy
+numpy"rdkit-pypi==2022.9.5" 
